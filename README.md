@@ -46,19 +46,19 @@ hanya me-rebind item yang benar-benar berubah — tanpa satu pun panggilan `noti
 
 Grid awal (header 3-span + 3 kolom item) | Setelah ➕ Tambah (toast "Stroberi ditambahkan")
 :---:|:---:
-![Grid awal](docs/screenshots/01-grid-awal.png) | ![Tambah Stroberi](docs/screenshots/02-tambah-stroberi.png)
+![Grid awal](screenshots/01-grid-awal.png) | ![Tambah Stroberi](screenshots/02-tambah-stroberi.png)
 
 Setelah 🔀 Acak Harga (harga berubah, struktur tetap) | Setelah 🗑 Hapus (satu item dihilangkan)
 :---:|:---:
-![Acak harga](docs/screenshots/03-acak-harga.png) | ![Hapus item](docs/screenshots/04-hapus-item.png)
+![Acak harga](screenshots/03-acak-harga.png) | ![Hapus item](screenshots/04-hapus-item.png)
 
 Promo 2 span (lebar ⅔ baris) | Snackbar detail item saat tap
 :---:|:---:
-![Promo 2 span](docs/screenshots/05-promo-2span.png) | ![Snackbar](docs/screenshots/06-snackbar.png)
+![Promo 2 span](screenshots/05-promo-2span.png) | ![Snackbar](screenshots/06-snackbar.png)
 
 Reset daftar | GIF demo kelancaran pembaruan (ListAdapter + DiffUtil)
 :---:|:---:
-![Reset](docs/screenshots/07-reset.png) | ![Demo GIF](docs/screenshots/demo.gif)
+![Reset](screenshots/07-reset.png) | ![Demo GIF](screenshots/demo.gif)
 
 > GIF direkam dari emulator Android 14 (API 34) saat demo dijalankan: Tambah → Acak → Hapus →
 > scroll ke Promo → tap item (Snackbar) → Reset. Terlihat pembaruan daftar **mulus tanpa
