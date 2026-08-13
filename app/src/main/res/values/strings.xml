@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Buah &amp; Sayur</string>
+    <string name="title_header">Advanced RecyclerView</string>
+    <string name="title_subtitle">ListAdapter + DiffUtil + Grid + Multiple View Types</string>
+    <string name="btn_add">➕ Tambah</string>
+    <string name="btn_shuffle">🔀 Acak Harga</string>
+    <string name="btn_delete">🗑️ Hapus</string>
+    <string name="btn_reset">🔄 Reset</string>
+    <string name="content_desc_rating">Rating</string>
+    <string name="content_desc_price">Harga</string>
+</resources>
